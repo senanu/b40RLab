@@ -13,6 +13,4 @@ rott <- get_map(rotterdam, zoom = 13, source = "osm")
 
 ggm <- ggmap(rott, extent="device", legend = "none")
 
-
-
 print(ggm)
