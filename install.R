@@ -1,1 +1,1 @@
-install.packages(c())
+install.packages(c("highr", "markdown", "stringr", "yaml", "rmarkdown"))
